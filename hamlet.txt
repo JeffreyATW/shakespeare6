@@ -1,6 +1,8 @@
 HAMLET
 by William Shakespeare
 
+HAMLET: To be, or not to be: that is the question.
+
 KING: Boo I'm a ghost
 
 POLONIUS: I'm behind a curtain lol
